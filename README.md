@@ -1,4 +1,4 @@
 # newproject-demo
 This is my first Git Repository.
 <br>
-Author- Kunal Roy
+Author- Kunal Roy(madhumita)
